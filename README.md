@@ -1,4 +1,5 @@
 # SeedSwipe-iOS
+The iOS App is going to be built natively using Swift, using the UIKit and SwiftUI frameworks provided by Apple. Networking calls between the frontend and backend will be made using the Combine library provided by Apple. Wallet connections and user login will be hosted through SeedBase.
 
 ## Images
 <img src=https://github.com/Seedswipe-Labs/SeedSwipe-iOS/assets/80065244/d3727543-dc15-49c2-8aad-b97787d99a62 width=16% height=16% >
